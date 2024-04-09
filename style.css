@@ -37,7 +37,5 @@
         }
         .mi {
             width: 50%;
-        }
-        .op {
-            width: 50%;
+            align-items: center;
         }
