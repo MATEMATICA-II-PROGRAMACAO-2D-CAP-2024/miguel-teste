@@ -1,4 +1,40 @@
-body{
-    background-color: #383D58;
-    color: white;
+.cabecalho{
+    background-color: #084d6e ;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding: 0 24px;
 }
+          .cabecalho-imagem{
+            width: 30%;
+          }
+     .cabecalho-lista-item{
+        display: inline-block;
+        margin:  0  16px;
+        padding: 24px 0;
+        font-size: 26px;
+    }
+    .escola{ 
+        display: flex;
+        color: #ffffff;
+        background-image: radial-gradient(circle at -19.64% 37.72%, #084d6e 0, #00b3f9 3.33%, #00b1ff 6.67%, #00b0ff 10%, #00adff 13.33%, #00aaff 16.67%, #00a5ff 20%, #00a0ff 23.33%, #0099ff 26.67%, #0091ff 30%, #0087ff 33.33%, #6c7cff 36.67%, #9d6fff 40%, #c061ff 43.33%, #dc50fc 46.67%, #f23ce8 50%, #ff22d3 53.33%, #ff00bd 56.67%, #ff00a6 60%, #ff008f 63.33%, #ff0078 66.67%, #ff0062 70%, #ff0b4c 73.33%, #ff2e36 76.67%, #ff431b 80%, #ff5400 83.33%, #f46300 86.67%, #e57000 90%, #d47b00 93.33%, #c38500 96.67%, #af8d00 100%);
+        justify-content: center;
+        align-items: center;
+        padding: 0 24px;
+        }
+            .oi{
+                width: 30%;
+            }
+        .escola.comteudo{
+            width: 30%;
+        }
+        .escola-titulo{
+            padding: 24px 0;
+        }
+        body{
+            font-family: 'Poppins',sans-serif;
+        }
+        .mi {
+            width: 50%;
+        }
