@@ -30,6 +30,7 @@
             width: 30%;
         }
         .escola-titulo{
+            color: linear-gradient(to right, #000066 0%, #ff0000 100%);;
             padding: 24px 0;
         }
         body{
@@ -43,3 +44,4 @@
             width: 11cm;
             align-items: center;
         }
+        
